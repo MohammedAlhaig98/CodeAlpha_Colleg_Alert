@@ -1,4 +1,4 @@
-# cpllege_alert
+# college_alert
 
 A new Flutter project.
 
